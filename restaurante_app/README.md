@@ -13,14 +13,17 @@ Restaurante App es un sistema desarrollado en Python utilizando Programación Or
 restaurante_app/
 │
 ├── modelos/
+│   ├── __init__.py
 │   ├── producto.py
 │   ├── bebida.py
 │   └── cliente.py
 │
 ├── servicios/
+│   ├── __init__.py
 │   └── restaurante.py
 │
-└── main.py
+├── main.py
+└── README.md
 
 ## Responsabilidad de las clases
 
